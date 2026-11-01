@@ -25,7 +25,7 @@ Data Augmentation 	Enabled (Crop + Flip + Cutout)
 seed Config 	seed=42
 
 Best trained model checkpoint:
-🧪 How to Verify the Trained Model
+How to Verify the Trained Model
 
 Follow these steps to evaluate the trained model directly.
 1 Clone the repository
